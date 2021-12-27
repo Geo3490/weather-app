@@ -1,0 +1,32 @@
+body {
+    background: rgb(181, 172, 189);
+    letter-spacing: 0.2em;
+    font-size: 0.8;
+}
+
+.container {
+    max-width: 400px;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+font-family: 'Yuji Mai', serif;
+text-decoration-line: underline;
+}
+
+.details{
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+label {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
