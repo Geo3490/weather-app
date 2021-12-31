@@ -31,9 +31,9 @@ icon.setAttribute('src', iconSrc)
 
 let timeSrc = null;
     if (weather.IsDayTime) {
-        timeSrc = 'img/day.svg';
+        timeSrc = 'icons/day.svg';
     } else {
-        timeSrc = 'img/night.svg'
+        timeSrc = 'icons/night.svg'
     }
 
     // remove the d-none class if present
